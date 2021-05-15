@@ -1,0 +1,306 @@
+{
+    "links": [
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "0",
+                    "combinedscore": "900",
+                    "cooccurence": "0",
+                    "database": "900",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "0"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 1
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "50",
+                    "combinedscore": "915",
+                    "cooccurence": "0",
+                    "database": "900",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "186"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 2
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "65",
+                    "combinedscore": "217",
+                    "cooccurence": "0",
+                    "database": "0",
+                    "experimental": "197",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining":"0"
+                    },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 3 
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "0",
+                    "combinedscore": "185",
+                    "cooccurence": "0",
+                    "database": "0",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "185"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 4
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "45",
+                    "combinedscore": "913",
+                    "cooccurence": "0",
+                    "database": "900",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "168"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 5
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "62",
+                    "combinedscore": "546",
+                    "cooccurence": "0",
+                    "database": "0",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "536"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 6
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "0",
+                    "combinedscore": "243",
+                    "cooccurence": "0",
+                    "database": "0",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "243"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 7
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "0",
+                    "combinedscore": "250",
+                    "cooccurence": "0",
+                    "database": "0",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "250"
+                    },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 8
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "65",
+                    "combinedscore": "218",
+                    "cooccurence": "0",
+                    "database": "0",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "198"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 9
+        },
+        {
+            "IUPredscore": "NA",
+            "PIVscore": "NA",
+            "category": "ppi",
+            "ppi": {
+                    "coexpression": "0",
+                    "combinedscore": "189",
+                    "cooccurence": "0",
+                    "database": "0",
+                    "experimental": "0",
+                    "fusion": "0",
+                    "neighborhood": "0",
+                    "textmining": "189"
+                },
+            "relationshiptype": "ppi",
+            "score": 1,
+            "source": 0,
+            "target": 10
+        }
+    ],
+    "nodes": [
+        {
+            "biotype": "interactor",
+            "category": "source protein",
+            "id": "M6PR MPR46 MPRD",
+            "name": "M6PR MPR46 MPRD",
+            "potentialsubstrate": "true",
+            "score": 0.5,
+            "size": 50,
+            "type": "triangle-up"
+        },
+        {
+            "biotype": "substrate",
+            "category": "source protein",
+            "id": "AGTR1 AGTR1A AGTR1B AT2R1 AT2R1B",
+            "name": "AGTR1 AGTR1A AGTR1B AT2R1 AT2R1B",
+            "potentialsubstrate": "false",
+            "score": 0.5,
+            "size": 50,
+            "type": "circle"
+        },
+        {
+            "biotype": "substrate",
+            "category": "source protein",
+            "id": "DNAJC6 KIAA0473",
+            "name": "DNAJC6 KIAA0473",
+            "potentialsubstrate": "false",
+            "score": 0.5,
+            "size": 50,
+            "type": "circle"
+        },
+        {
+            "biotype": "interactor",
+            "category": "source protein",
+            "id": "RPL6 TXREB1",
+            "name": "RPL6 TXREB1",
+            "potentialsubstrate": "false",
+            "score": 0.5,
+            "size": 50,
+            "type": "triangle-up"
+        },
+        {
+            "biotype": "interactor",
+            "category": "source protein",
+            "id": "VAPA",
+            "name": "VAPA",
+            "potentialsubstrate": "false",
+            "score": 0.5,
+            "size": 50,
+            "type": "triangle-up"
+        },
+        {
+            "biotype": "interactor",
+            "category": "source protein",
+            "id": "CLTCL1 CLH22 CLTCL CLTD",
+            "name": "CLTCL1 CLH22 CLTCL CLTD",
+            "potentialsubstrate": "false",
+            "score": 0.5,
+            "size": 50,
+            "type": "triangle-up"
+        },
+        {
+            "biotype": "substrate",
+            "category": "source protein",
+            "id": "LAMP2",
+            "name": "LAMP2",
+            "potentialsubstrate": "false",
+            "score": 0.5,
+            "size": 50,
+            "type": "circle"
+        },
+        {
+            "biotype": "interactor",
+            "category": "source protein",
+            "id": "DNAJC10 ERDJ5 UNQ495/PRO1012",
+            "name": "DNAJC10 ERDJ5 UNQ495/PRO1012",
+            "potentialsubstrate": "true",
+            "score": 0.5,
+            "size": 50,
+            "type": "square"
+        },
+        {
+            "biotype": "substrate",
+            "category": "source protein",
+            "id": "PIKFYVE KIAA0981 PIP5K3",
+            "name": "PIKFYVE KIAA0981 PIP5K3",
+            "potentialsubstrate": "true",
+            "score": 0.5,
+            "size": 50,
+            "type": "circle"
+        },
+        {
+            "biotype": "substrate",
+            "category": "source protein",
+            "id": "GRN",
+            "name": "GRN",
+            "potentialsubstrate": "true",
+            "score": 0.5,
+            "size": 50,
+            "type": "circle"
+        },
+        {
+            "biotype": "interactor",
+            "category": "source protein",
+            "id": "UBE2J1 NCUBE1 CGI-76 HSPC153 HSPC205",
+            "name": "UBE2J1 NCUBE1 CGI-76 HSPC153 HSPC205",
+            "potentialsubstrate": "false",
+            "score": 0.5,
+            "size": 50,
+            "type": "triangle-up"
+        }
+    ]
+}
